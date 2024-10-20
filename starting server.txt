@@ -1,0 +1,3 @@
+cd D:\python_socket\socket_server
+.venv\Scripts\activate
+python socket_server.py
